@@ -8,9 +8,10 @@ Main Components:
 
 NetflixRecommender (Recommendation Engine)
 Loads data from a CSV file (netflixData.csv).
-Uses TF-IDF and cosine similarity to generate recommendations.
-Processes features such as Production Country, Director, and Cast.
-Generates recommendations based on similar titles.
+
+-Uses TF-IDF and cosine similarity to generate recommendations.
+-Processes features such as Production Country, Director, and Cast.
+-Generates recommendations based on similar titles.
 
 Graphical User Interface (GUI):
 
