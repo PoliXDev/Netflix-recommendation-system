@@ -47,3 +47,7 @@ Technologies Used
 -pandas for data handling.
 -scikit-learn for the recommendation engine.
 -Custom Netflix-inspired style system.
+
+Code created by:
+
+Daniel Ruiz Poli / ConquerBlocks Academy
